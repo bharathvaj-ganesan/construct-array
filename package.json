@@ -1,5 +1,5 @@
 {
-  "name": "make-array",
+  "name": "construct-array",
   "version": "0.0.1",
   "description": "Returns the passing value as an array.",
   "main": "index.js",
@@ -11,21 +11,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bharathvaj1995/make-array.git"
+    "url": "git+https://github.com/bharathvaj1995/construct-array.git"
   },
   "keywords": [
     "array",
     "create",
     "return",
     "arrify",
-    "convert"
+    "convert",
+    "construct",
+    "make"
   ],
   "author": "Bharathvaj Ganesan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bharathvaj1995/make-array/issues"
+    "url": "https://github.com/bharathvaj1995/construct-array/issues"
   },
-  "homepage": "https://github.com/bharathvaj1995/make-array#readme",
+  "homepage": "https://github.com/bharathvaj1995/construct-array#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.1.0"

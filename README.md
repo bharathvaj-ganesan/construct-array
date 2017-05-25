@@ -1,9 +1,9 @@
-# make-array  
+ 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
 [![Build Status](https://travis-ci.org/bharathvaj1995/array-random-shuffle.svg?branch=master)](https://travis-ci.org/bharathvaj1995/make-array) 
 [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
  
-# string-ellipsis     
+# construct-array     
 
 Returns the passing value(anything .. string,number,null,undefined,object,array) as an array.
 
@@ -13,11 +13,11 @@ Inspired by [Sindre Sorhus](https://sindresorhus.com)
 
 ## Installation
 ```
-$ npm install --save make-array
+$ npm install --save construct-array 
 ```
 ## Usuage
 ```javascript
-let arrayify = require('make-array');
+let arrayify = require('construct-array');
 
 arrayify('India');
 //=>['India']
