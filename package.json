@@ -1,0 +1,33 @@
+{
+  "name": "make-array",
+  "version": "0.0.1",
+  "description": "Returns the passing value as an array.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.1.1"
+  },
+  "scripts": {
+    "run": "grunt run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharathvaj1995/make-array.git"
+  },
+  "keywords": [
+    "array",
+    "create",
+    "return",
+    "arrify",
+    "convert"
+  ],
+  "author": "Bharathvaj Ganesan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bharathvaj1995/make-array/issues"
+  },
+  "homepage": "https://github.com/bharathvaj1995/make-array#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
